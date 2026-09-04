@@ -1,0 +1,30 @@
+PROMPTS PARA EXECUTAR NO NOTEBOOKLM
+
+1) PROMPT V1
+Explique engenharia de prompts.
+
+2) PROMPT V2
+Explique engenharia de prompts para uma pessoa iniciante em Inteligência Artificial. Use linguagem simples. Apresente uma definição, cinco características de um bom prompt e um exemplo prático. Baseie a resposta somente nas fontes deste caderno.
+
+3) PROMPT V3
+Com base exclusivamente nas fontes deste caderno, compare as recomendações para criação de bons prompts. Identifique pontos em comum, diferenças e possíveis divergências. Para cada conclusão, indique em qual fonte ela está fundamentada.
+
+4) PROMPT V4
+Crie um quiz com 10 perguntas sobre engenharia de prompts usando apenas as fontes deste caderno. Não mostre as respostas inicialmente. Depois que eu responder, avalie cada item, explique meus erros e indique a fonte usada na correção.
+
+FONTES PARA ADICIONAR AO NOTEBOOKLM
+
+OpenAI:
+https://help.openai.com/pt-br/articles/10032626-melhores-praticas-de-engenharia-de-prompts-para-o-chatgpt
+
+Google:
+https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-BR
+
+Anthropic:
+https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-templates-and-variables
+
+Microsoft:
+https://learn.microsoft.com/pt-br/training/modules/create-prompts-for-generative-ai-training-tools/
+
+AWS:
+https://docs.aws.amazon.com/prescriptive-guidance/latest/llm-prompt-engineering-best-practices/best-practices.html

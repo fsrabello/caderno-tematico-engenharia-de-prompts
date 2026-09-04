@@ -1,0 +1,24 @@
+CHECKLIST FINAL — DESAFIO DIO
+
+GITHUB
+[ ] Repositório público: caderno-tematico-engenharia-de-prompts
+[ ] README.md completo publicado
+[ ] Conferir se o README aparece formatado na página principal
+
+NOTEBOOKLM
+[ ] Criar um novo notebook/caderno
+[ ] Nome: Engenharia de Prompts para IA Generativa
+[ ] Adicionar as 5 fontes do arquivo prompts-notebooklm.txt
+[ ] Executar pelo menos os prompts V1, V2 e V3
+[ ] Opcional: executar V4 para mostrar aprendizagem ativa
+[ ] Opcional: tirar 2 ou 3 screenshots para portfólio
+
+ENTREGA DIO
+[ ] Copiar a URL principal do repositório
+[ ] Colar no campo de entrega
+[ ] Usar a descrição:
+
+Neste projeto desenvolvi um Caderno Temático no NotebookLM sobre Engenharia de Prompts para IA Generativa. Realizei a curadoria de fontes oficiais, explorei diferentes estratégias de prompting, documentei testes e dificuldades encontradas durante o processo e consolidei os aprendizados em um miniguia com resumo, glossário e prompts reutilizáveis. O projeto também foi documentado em Markdown e publicado no GitHub como parte do meu portfólio.
+
+IMPORTANTE
+O README já está pronto. A única atividade que precisa ser realizada na ferramenta NotebookLM é criar o caderno, adicionar as fontes e executar os prompts. Isso garante que a entrega represente uma atividade realmente realizada por você.
